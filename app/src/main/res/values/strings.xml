@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpinnerPro</string>
+
+    <string-array name="spinner_array">
+        <item>北京</item>
+        <item>上海</item>
+        <item>广州</item>
+        <item>深圳</item>
+        <item>郑州</item>
+        <item>成都</item>
+        <item>杭州</item>
+        <item>海淀</item>
+        <item>朝阳</item>
+    </string-array>
+
+
+</resources>
