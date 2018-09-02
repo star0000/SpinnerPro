@@ -12,6 +12,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+
     private Spinner spinner;
     private ArrayList<String> list;
     private ArrayAdapter arrayAdapter;
